@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-##  Responsive Web Design course by freeCodeCamp - Building a Cat Photp App
+# Responsive Web Design course by freeCodeCamp - Building a Cat Photp App
 
 ### Basic HTML elements
 
