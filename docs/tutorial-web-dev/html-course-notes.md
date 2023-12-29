@@ -9,7 +9,7 @@ sidebar_position: 1
 > * HTML attribute are used within some elements such as src attribute in img element.
 > * To nest images in links, no tag is sacrificed, the link simply surrounds the img element.
 > * a href link element does have a closing tag.
-> * There is a basic structure needed to build a web page and that is the Doctype tag and language att >
+> * There is a basic structure needed to build a web page and that is the Doctype tag and language attribute
 > ```
 ><!DOCTYPE html>
 ><html lang="en"> 
