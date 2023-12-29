@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Responsive Web Design course by freeCodeCamp - Building a Cat Photp App
+# Building a Cat Photp App - RWD course by freeCodeCamp
 
 ### Basic HTML elements
 
@@ -47,3 +47,4 @@ sidebar_position: 2
 
 > Block level elements are elements that appear on new lines contrary to inline lements.
 
+[Examples of the web-page created with the knowlege from the CatPhotoApp project](example-building-cat-app.html)
