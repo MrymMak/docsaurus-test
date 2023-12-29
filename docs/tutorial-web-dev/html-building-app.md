@@ -44,6 +44,5 @@ sidebar_position: 2
 |legend element "legend"blabla"/legend"|  Acts as a caption for the content in the fieldset element. Gives context on what info to enter. |
 |"label for=«  » "/label" For attribute | Alternative to putting the whole input code in label by just putting label for=«  »surrounding the button text. |
 |checked attr <br /> input id=“” type=“” name=“” value=“” checked" |Makes a checkbox checked or radio button selected by default. |
-| |
 
 > Block level elements are elements that appear on new lines contrary to inline lements.
