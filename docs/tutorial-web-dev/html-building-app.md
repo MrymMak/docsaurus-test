@@ -13,5 +13,14 @@ sidebar_position: 2
 | "figure" "/figure"    | Adding this tag contains self-contained content such as img with caption, the "figcaption" tags is used inside it to insert a description.    |
 | "em"    | tags is an italic styling.   |
 | "strong"    | is for bold.    |
-| March    | $420    |
-| March    | $420    |
+| "footer" "/footer"    | ...   |
+| "style" "/style"    | elements in html file can be added in the "head" tag.   |
+| "link rel=”stylesheetName” href=”stylesheetNameWith Extension” /"     | can be used to link a stylesheet in an html file.    |
+| "meta name="viewport" content="width=device-width, initial-scale=1.0" /"    | meta tag to be added in "head" element to ensure responsive design.    |
+| "div" for style uses    | the "div" tag  can be used in body element to facilitate style selection|
+|lang attribute </br>"html lang = en"|Attribute to define the page language.    |
+| "title" "/title"    | Title in the "head" element. This title appears in the browser tab.   |
+| "!DOCTYPE html"    | All pages should begin with this special string, known as a declaration and ensures the browser tries to meet industry-wide specifications.    |
+
+
+## Creating forms in HTML
