@@ -18,7 +18,7 @@ sidebar_position: 2
 | "link rel=”stylesheetName” href=”stylesheetNameWith Extension” /"     | can be used to link a stylesheet in an html file.    |
 | "meta name="viewport" content="width=device-width, initial-scale=1.0" /"    | meta tag to be added in "head" element to ensure responsive design.    |
 | "div" for style uses    | the "div" tag  can be used in body element to facilitate style selection|
-|lang attribute </br>"html lang = en"|Attribute to define the page language.    |
+|lang attribute\  "html lang = en"|Attribute to define the page language.    |
 | "title" "/title"    | Title in the "head" element. This title appears in the browser tab.   |
 | "!DOCTYPE html"    | All pages should begin with this special string, known as a declaration and ensures the browser tries to meet industry-wide specifications.    |
 
