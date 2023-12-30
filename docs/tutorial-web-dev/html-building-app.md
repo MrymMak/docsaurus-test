@@ -47,4 +47,4 @@ sidebar_position: 2
 
 > Block level elements are elements that appear on new lines contrary to inline lements.
 
-[Examples of the web-page created with the knowlege from the CatPhotoApp project](example-building-cat-app.html)
+[Examples of the web-page created with the knowlege from the CatPhotoApp project](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-html-by-building-a-cat-photo-app/step-69)
