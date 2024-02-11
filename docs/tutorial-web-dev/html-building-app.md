@@ -1,8 +1,7 @@
 ---
 sidebar_position: 2
 ---
-
-# Building a Cat Photp App - RWD course by freeCodeCamp
+# HTML Basics - WD course by freeCodeCamp
 
 ### Basic HTML elements
 
@@ -21,7 +20,8 @@ sidebar_position: 2
 | "html lang = en"| language attribute to define the page language.    |
 | "title" "/title"    | Title in the "head" element. This title appears in the browser tab.   |
 | "!DOCTYPE html"    | All pages should begin with this special string, known as a declaration and ensures the browser tries to meet industry-wide specifications.    |
-
+| meta charset="utf-8"   | The encoding for the HTML documents. This defines how the browser interprets and stores the files. |
+| "article" "/article"  | The "article" tag specifies independent, self-contained content. An article should make sense on its own and it should be possible to distribute it independently from the rest of the site.|
 
 ## Creating forms in HTML
 

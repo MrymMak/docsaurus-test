@@ -1,0 +1,15 @@
+---
+sidebar_position: 3
+---
+# CSS Basics - WD course by freeCodeCamp
+
+### Basic CSS elements
+
+| HTML elements    | Description |
+| -------- | ------- |
+| a:visited { propertyName: propertyValue; } |   A pseudo-selector that helps you changes properties of a link when it has been visited.  |
+| a:hover { propertyName: propertyValue; }| A pseudo-selector that changes property of a link when mouse hovers over it.   |
+| a:active { propertyName: propertyValue; }| A pseudo-selector that changes property of a link is actually been clicked.|
+| display: block;  | Makes elements act like block elements such as headers.  Use margin left and right to adjust.|
+| negative values | negative numbers can be used for margin and padding properties and the like.|
+| ngt| ngt|
